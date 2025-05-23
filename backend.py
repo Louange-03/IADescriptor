@@ -65,6 +65,3 @@ def describe_image(image_path):
 
 
 
-
-image_path = r"C:\Users\Lenovo\Desktop\photos\1725610099-img_9469-scaled.webp"
-print(describe_image(image_path))
