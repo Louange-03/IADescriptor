@@ -5,7 +5,7 @@ from backend import describe_image
 
 st.set_page_config(page_title="Description d'image piquante", layout="centered")
 
-st.title("🖼️ Analyse d’image à la sauce Mistral")
+st.title("🖼️ Analyse d’image par Louange")
 st.markdown("Dépose une image et laisse Mistral te balancer une description pleine de mordant 😏")
 
 uploaded_file = st.file_uploader("Choisis une image", type=["jpg", "jpeg", "png"])
